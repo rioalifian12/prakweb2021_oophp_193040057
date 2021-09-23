@@ -79,3 +79,4 @@ $produk2 = new Game("Uncharted", "Neil Druckmann", "Sony Computer", 250000, 50);
 echo $produk1->getInfoProduk();
 echo "<br>";
 echo $produk2->getInfoProduk();
+// push ulang
